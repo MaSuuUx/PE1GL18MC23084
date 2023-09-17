@@ -1,0 +1,11 @@
+C:\Users\7390\source\repos\PE1GL18MC23084\bin\Debug\PE1GL18MC23084.exe.config
+C:\Users\7390\source\repos\PE1GL18MC23084\bin\Debug\PE1GL18MC23084.exe
+C:\Users\7390\source\repos\PE1GL18MC23084\bin\Debug\PE1GL18MC23084.pdb
+C:\Users\7390\source\repos\PE1GL18MC23084\obj\Debug\PE1GL18MC23084.csproj.AssemblyReference.cache
+C:\Users\7390\source\repos\PE1GL18MC23084\obj\Debug\PE1GL18MC23084.Form1.resources
+C:\Users\7390\source\repos\PE1GL18MC23084\obj\Debug\PE1GL18MC23084.Properties.Resources.resources
+C:\Users\7390\source\repos\PE1GL18MC23084\obj\Debug\PE1GL18MC23084.csproj.GenerateResource.cache
+C:\Users\7390\source\repos\PE1GL18MC23084\obj\Debug\PE1GL18MC23084.csproj.CoreCompileInputs.cache
+C:\Users\7390\source\repos\PE1GL18MC23084\obj\Debug\PE1GL18MC23084.exe
+C:\Users\7390\source\repos\PE1GL18MC23084\obj\Debug\PE1GL18MC23084.pdb
+C:\Users\7390\source\repos\PE1GL18MC23084\obj\Debug\PE1GL18MC23084.Form2.resources
